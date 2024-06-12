@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BooksShop_React_MongoDB/static/css/main.02ad15f3.css",
-    "main.js": "/BooksShop_React_MongoDB/static/js/main.a2c826bb.js",
+    "main.js": "/BooksShop_React_MongoDB/static/js/main.3ff68178.js",
     "static/js/453.937d818f.chunk.js": "/BooksShop_React_MongoDB/static/js/453.937d818f.chunk.js",
     "static/media/slide2.jpg": "/BooksShop_React_MongoDB/static/media/slide2.8e5c9da2292e0b64dc5f.jpg",
     "static/media/slide1.jpg": "/BooksShop_React_MongoDB/static/media/slide1.b7d7446bf0881497ee57.jpg",
@@ -15,11 +15,11 @@
     "static/media/slick.woff": "/BooksShop_React_MongoDB/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/BooksShop_React_MongoDB/index.html",
     "main.02ad15f3.css.map": "/BooksShop_React_MongoDB/static/css/main.02ad15f3.css.map",
-    "main.a2c826bb.js.map": "/BooksShop_React_MongoDB/static/js/main.a2c826bb.js.map",
+    "main.3ff68178.js.map": "/BooksShop_React_MongoDB/static/js/main.3ff68178.js.map",
     "453.937d818f.chunk.js.map": "/BooksShop_React_MongoDB/static/js/453.937d818f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.02ad15f3.css",
-    "static/js/main.a2c826bb.js"
+    "static/js/main.3ff68178.js"
   ]
 }
