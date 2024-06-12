@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BooksShop_React_MongoDB/static/css/main.02ad15f3.css",
+    "main.js": "/BooksShop_React_MongoDB/static/js/main.a2c826bb.js",
+    "static/js/453.937d818f.chunk.js": "/BooksShop_React_MongoDB/static/js/453.937d818f.chunk.js",
+    "static/media/slide2.jpg": "/BooksShop_React_MongoDB/static/media/slide2.8e5c9da2292e0b64dc5f.jpg",
+    "static/media/slide1.jpg": "/BooksShop_React_MongoDB/static/media/slide1.b7d7446bf0881497ee57.jpg",
+    "static/media/slide4.jpg": "/BooksShop_React_MongoDB/static/media/slide4.7f27a734c0f1486f599d.jpg",
+    "static/media/slide3.jpg": "/BooksShop_React_MongoDB/static/media/slide3.7884d291d3ebfa34f565.jpg",
+    "static/media/Header_top.jpg": "/BooksShop_React_MongoDB/static/media/Header_top.66859343fd783b13750a.jpg",
+    "static/media/fahasa-logo.png": "/BooksShop_React_MongoDB/static/media/fahasa-logo.119f2fe7e6fc550d5ac1.png",
+    "static/media/slick.svg": "/BooksShop_React_MongoDB/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/BooksShop_React_MongoDB/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/BooksShop_React_MongoDB/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/BooksShop_React_MongoDB/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/BooksShop_React_MongoDB/index.html",
+    "main.02ad15f3.css.map": "/BooksShop_React_MongoDB/static/css/main.02ad15f3.css.map",
+    "main.a2c826bb.js.map": "/BooksShop_React_MongoDB/static/js/main.a2c826bb.js.map",
+    "453.937d818f.chunk.js.map": "/BooksShop_React_MongoDB/static/js/453.937d818f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02ad15f3.css",
+    "static/js/main.a2c826bb.js"
+  ]
+}
